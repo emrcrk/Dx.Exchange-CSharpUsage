@@ -1,0 +1,13 @@
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\bin\Debug\DxExchangeUsage.exe.config
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\bin\Debug\DxExchangeUsage.exe
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\bin\Debug\DxExchangeUsage.pdb
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\obj\Debug\DxExchangeUsage.Properties.Resources.resources
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\obj\Debug\DxExchangeUsage.csproj.GenerateResource.cache
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\obj\Debug\DxExchangeUsage.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\obj\Debug\DxExchangeUsage.csproj.CopyComplete
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\obj\Debug\DxExchangeUsage.exe
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\obj\Debug\DxExchangeUsage.pdb
+C:\Users\Emre\Documents\GitHub\Dx.Exchange-CSharpUsage\DxExchangeUsage\DxExchangeUsage\obj\Debug\DxExchangeUsage.Form1.resources
